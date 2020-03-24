@@ -52,7 +52,7 @@
 一个集成Goflyway、XX-Net、v2ray、Daze、SSR、Brook、Lightsocks、trojan、蓝灯、psiphon等N多翻墙工具的电脑翻墙包（推荐按前面所列顺序依次尝试），所有工具全部内置免费服务器，长期更新。由于国内网络环境复杂、地区不同，网络运营商不同，封锁情况都不同，所以使用效果会有差别，有的地区几乎所有的软件都能使用，有的只能用几款，因此具体哪款软件适合你的网络环境，需要你自己来尝试。
 
 <b>推荐：</b><br>
-<a href="https://github.com/killgcd/justmysocks/blob/master/README.md"><img src="https://raw.githubusercontent.com/killgcd/justmysocks/master/images/bwgss.jpg" alt="搬瓦工翻墙 Just My Socks"></a>
+<a href="https://github.com/miuanan/justmysocks/blob/master/README.md"><img src="https://raw.githubusercontent.com/killgcd/justmysocks/master/images/bwgss.jpg" alt="搬瓦工翻墙 Just My Socks"></a>
 
 <b>下载本项目，更多下载点：<a class="d-block" href="https://github.com/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85">Chrome一键翻墙包</a></b>，下载后打开ChromeGo目录启动翻墙脚本。<br>
 <img src="https://github.com/killgcd/chromego/blob/master/%E4%B8%8B%E8%BD%BDchromego.jpg?raw=true" alt="下载chromego.jpg">
